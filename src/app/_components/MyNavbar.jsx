@@ -113,7 +113,7 @@ const MyNavbar = () => {
                         className="rounded-full"
                       />
                     )}
-                    <p className="text-white text-[11px] md:text-[16px]">
+                    <p className="text-neutral-50 text-[11px] md:text-[16px]">
                       Hello , {data?.data?.user?.name}
                     </p>
                   </div>
